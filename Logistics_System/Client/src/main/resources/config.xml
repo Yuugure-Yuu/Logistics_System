@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+	<IPconfig>
+		<!-- IP连接设置 -->
+		<IPaddress>localhost</IPaddress>
+		<Port>3306</Port>
+	</IPconfig>
+	<Repertoryconfig>
+	    <capacity>100</capacity>
+	    <percent>0.9</percent>
+	</Repertoryconfig>
+</CONFIG> 
